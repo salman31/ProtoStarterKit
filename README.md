@@ -17,5 +17,11 @@ https://github.com/atomiks/tippyjs
 **select box multiple**<br/>
 https://github.com/Mobius1/Selectr
 
+**input tag**<br/>
+https://github.com/yairEO/tagify
+
+**input autocomplete***<br/>
+https://github.com/kraaden/autocomplete
+
 **carousel**<br/>
 https://github.com/pawelgrzybek/siema
