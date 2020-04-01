@@ -5,6 +5,9 @@ Setup for creating prototype in html css js
 
 ## JS library (dependency-free):
 
+**sortable**<br/>
+https://github.com/SortableJS/Sortable
+
 **tab**<br/>
 http://github.com/cferdinandi/tabby
 
